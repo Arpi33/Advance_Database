@@ -1,0 +1,4 @@
+method,accuracy,coverage,n_scored
+knn_mode,0.2727272727272727,0.9166666666666666,11
+entity_llm,0.25,1.0,12
+entity_mode,0.25,1.0,12

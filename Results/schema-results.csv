@@ -1,0 +1,533 @@
+site,record_id,attr,value,target_property,difficulty,target_norm,pred_zero_norm,pred_ft_norm
+www.ebay.com,44064,optical zoom,5x,zoom_optical,A,zoom optical,auto focus points,zoom optical
+www.pcconnection.com,12439,color,Black,color,A,color,color,color
+www.ebay.com,54875,screen size,"3""",screen_size,A,screen size,auto focus points,screen size
+www.alibaba.com,28249,lens mount,φ14,lens_mount_type,A,lens mount type,auto focus mode,lens mount type
+www.priceme.co.nz,2299,max image resolution,4608x3456,image_resolution_lw,A,image resolution lw,auto focus points,image resolution
+www.buzzillions.com,899,megapixels,12.0,image_resolution,B,image resolution,auto focus mode,image resolution
+www.pricedekho.com,1207,maximum shutter speed,1/4000 sec,shutter_speed_max,A,shutter speed max,auto focus mode,shutter speed max
+www.buzzillions.com,1053,megapixels,16,image_resolution,B,image resolution,auto focus mode,image resolution
+www.shopmania.in,1399,sensor size,17.3x13.0mm,sensor_size,A,sensor size,auto focus mode,sensor size
+www.ebay.com,45326,brand,Nikon,brand,A,brand,brand,brand
+www.price-hunt.com,790,sensor format,23.7 x 15.7 mm (Aps-c),sensor_size,A,sensor size,auto focus mode,sensor format
+www.walmart.com,677,self timer delay,"10 sec, 2 sec",self_timer,A,self timer,auto focus type,self timer
+www.canon-europe.com,157,redeye correction,"Yes, during shooting and playback",red_eye_reduction,C,red eye reduction,auto focus mode,picture styles
+www.ebay.com,47372,brand,Fujifilm,brand,A,brand,brand,brand
+www.ebay.com,48598,megapixels,5.1 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.ebay.com,59462,screen size,"2""",screen_size,A,screen size,auto focus points,screen size
+www.ebay.com,47866,screen size,"2.7""",screen_size,A,screen size,auto focus mode,screen size
+www.ebay.com,24457,brand,Ricoh,brand,A,brand,brand,brand
+www.price-hunt.com,9714,warranty summary,6 Months,warranty_duration,A,warranty duration,auto focus points,warranty duration
+www.mypriceindia.com,50,camera resolution,8.9 MP,image_resolution,A,image resolution,auto focus automatic,image resolution
+www.ebay.com,56621,screen size,"1.5""",screen_size,A,screen size,auto focus points,screen size
+www.ebay.com,53152,megapixels,16.0 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.shopmania.in,1523,max shutter speed,1/2000,shutter_speed_max,A,shutter speed max,auto focus mode,shutter speed max
+www.buzzillions.com,1817,pixel count,8 Megapixel,image_resolution,C,image resolution,auto focus points,image resolution
+www.buzzillions.com,2835,builtin memory,44 MB,internal_memory_capacity,A,internal memory capacity,builtin memory,internal memory capacity
+www.ebay.com,54310,megapixels,12.2 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.cambuy.com.au,155,total pixels,24.69 million,image_resolution,B,image resolution,auto focus points,image resolution
+www.alibaba.com,35300,lens mount,Φ14,lens_mount_type,A,lens mount type,auto focus mode,lens mount type
+www.ebay.com,55192,screen size,"3""",screen_size,A,screen size,auto focus points,screen size
+www.ebay.com,48403,megapixels,16.0 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.ebay.com,47012,optical zoom,3x,zoom_optical,A,zoom optical,auto focus points,zoom optical
+www.ebay.com,46578,megapixels,16.1 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.alibaba.com,26503,focus control,Manual,auto_focus_automatic,A,auto focus automatic,auto focus mode,auto focus automatic
+buy.net,6681,width,5.1 in,camera_width,A,camera width,width,image resolution
+www.eglobalcentral.co.uk,313,focal length,1.4x that of a master lens,focal_length_min,A,focal length min,auto focus mode,focal length
+www.ebay.com,24465,brand,Nikon,brand,A,brand,brand,brand
+www.ebay.com,46045,megapixels,10.1 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.mypriceindia.com,108,image ratio wh,"4:3, 16:9",supported_aspect_ratio,A,supported aspect ratio,auto focus mode,supported aspect ratio
+www.gosale.com,860,manufacturer,Sony,brand,C,brand,manufacturer,camera width
+www.ebay.com,54502,screen size,"1.8""",screen_size,A,screen size,auto focus points,screen size
+www.canon-europe.com,165,still image type,"JPEG (Exif 2.2 [Exif Print] compliant) / Design rule for Camera File system, RAW, Digital Print Order Format [DPOF] Version 1.1 compliant",image_format,A,image format,auto focus mode,image format
+www.ukdigitalcameras.co.uk,276,camera resolution,16 Megapixels,image_resolution,A,image resolution,auto focus automatic,image resolution
+www.ebay.com,47798,brand,Polaroid,brand,A,brand,brand,camera type
+www.ilgs.net,125,display,TFT,screen_type,C,screen type,auto focus points,image resolution
+buy.net,5362,image sensor,CMOS,sensor_type,A,sensor type,auto focus mode,sensor type
+buy.net,4293,longest shutter speed,15 Second,shutter_speed_min,A,shutter speed min,auto focus mode,shutter speed min
+www.price-hunt.com,9551,optical zoom,5x,zoom_optical,A,zoom optical,auto focus mode,zoom optical
+www.gosale.com,919,manufacturer,Canon,brand,C,brand,manufacturer,camera type
+www.buzzillions.com,2480,pixel count,10 Megapixel,image_resolution,C,image resolution,auto focus points,image resolution
+www.ebay.com,48654,screen size,"3""",screen_size,A,screen size,auto focus points,screen size
+www.ebay.com,44396,megapixels,14.2 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.mypriceindia.com,771,other focus features,"5 cm Macro Focus Range, 9 Focus Points",auto_focus_points,A,auto focus points,auto focus points,focus type
+www.pricedekho.com,1273,screen size,3 Inches,screen_size,A,screen size,auto focus mode,screen size
+buy.net,6370,lcd screen size,3 in,screen_size,A,screen size,auto focus mode,screen size
+www.priceme.co.nz,1893,still image format,"JPEG, RAW",image_format,A,image format,auto focus mode,image format
+www.wexphotographic.com,569,iso min,80,iso_sensitivity_min,A,iso sensitivity min,auto focus mode,iso sensitivity min
+www.pcconnection.com,12378,optical sensor type,CCD,sensor_type,A,sensor type,auto focus automatic,sensor type
+www.ebay.com,45817,screen size,"3""",screen_size,A,screen size,auto focus points,screen size
+www.price-hunt.com,9601,maximum shutter speed,1/1600 sec,shutter_speed_max,A,shutter speed max,auto focus mode,shutter speed max
+www.ebay.com,47361,brand,Olympus,brand,A,brand,brand,brand
+www.shopmania.in,1200,optical zoom,3.3x,zoom_optical,A,zoom optical,auto focus automatic,zoom optical
+www.cambuy.com.au,106,exposure compensation,+/- 2 EV in 1/3 stop increments. Enhanced i-Contrast for automatic dynamic range correction,exposure_compensation,A,exposure compensation,auto focus mode,exposure compensation
+www.alibaba.com,24944,max image resolution,2048 * 1536,image_resolution_lw,A,image resolution lw,auto focus points,image resolution
+www.mypriceindia.com,4,video format,Motion JPEG,video_format,A,video format,video format,video format
+www.shopmania.in,1546,depth,18 mm,camera_depth,A,camera depth,auto focus mode,camera depth
+www.alibaba.com,30307,white balance,Auto/Manual,white_balance,A,white balance,auto focus mode,white balance
+www.ebay.com,48109,screen size,"3""",screen_size,A,screen size,auto focus points,screen size
+www.ebay.com,44828,brand,Canon,brand,A,brand,brand,brand
+www.buzzillions.com,2742,manufacturers warranty hardware,1 Year,warranty_duration,A,warranty duration,manufacturer warranty hardware,warranty duration
+buy.net,5467,memory card support,Secure Digital High Capacity (SDHC) Card|Secure Digital Extended Capacity (SDXC)|Secure Digital (SD) Card,external_memory_type,A,external memory type,auto focus mode,external memory type
+www.canon-europe.com,75,photo effects,"Vivid, Neutral, Low Sharpening, Sepia, Black & White",picture_styles,C,picture styles,auto focus mode,picture styles
+www.ebay.com,46930,megapixels,16.0 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.henrys.com,190,camera type,Super Zoom,camera_type,A,camera type,auto focus automatic,camera type
+www.ilgs.net,83,image formats supported,JPG,image_format,A,image format,auto focus mode,image format
+www.ebay.com,46395,screen size,"3""",screen_size,A,screen size,auto focus points,screen size
+www.shopmania.in,1621,white balance,Automatic / Custom / Presets,white_balance,A,white balance,auto focus type,white balance
+www.shopbot.com.au,1459,sensor resolution,"18,1 Mpx",image_resolution,A,image resolution,auto focus points,sensor resolution mpx
+www.ebay.com,56727,brand,HP,brand,A,brand,brand,brand
+www.shopbot.com.au,1502,camera type,SLR,camera_type,A,camera type,auto focus automatic,camera type
+www.ebay.com,53865,screen size,"2.7""",screen_size,A,screen size,auto focus mode,screen size
+www.ebay.com,59917,megapixels,3.2 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.ebay.com,43587,brand,Canon,brand,A,brand,brand,brand
+www.ebay.com,48299,brand,Canon,brand,A,brand,brand,brand
+www.ebay.com,43467,brand,Nikon,brand,A,brand,brand,brand
+www.gosale.com,1216,manufacturer,Panasonic,brand,C,brand,manufacturer,camera width
+www.mypriceindia.com,24,digital zoom,4x,zoom_digital,A,zoom digital,auto focus mode,zoom digital
+www.shopmania.in,1195,self timer delay,Custom / 2s / 10s,self_timer,A,self timer,auto focus type,self timer
+buy.net,5411,exposure control,Program AE Shutter Priority AE Aperture Priority AE Manual,exposure_mode,A,exposure mode,auto focus points,exposure compensation
+www.ebay.com,59038,screen size,"3.0""",screen_size,A,screen size,auto focus points,screen size
+www.ebay.com,24454,megapixels,16.1 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.eglobalcentral.co.uk,375,effective pixels,16 megapixels,image_resolution,B,image resolution,auto focus points,image resolution
+www.ebay.com,58752,brand,Polaroid,brand,A,brand,brand,camera type
+www.shopmania.in,1302,min shutter speed,30s (more than 65%),shutter_speed_min,A,shutter speed min,auto focus mode,shutter speed min
+www.price-hunt.com,9598,optical zoom,12 x,zoom_optical,A,zoom optical,auto focus mode,zoom optical
+www.pricedekho.com,992,display,"Display Type
+TFT LCD Touchscreen
+Screen Size
+2.7 Inches
+Image Display Resolution
+230000 dots
+Additional Display Features
+Anti-reflection Coating",screen_size,B,screen size,display,screen size
+www.priceme.co.nz,2324,min focal length,25mm,focal_length_min,A,focal length min,auto focus mode,focal length max
+www.shopmania.in,1138,exposure modes,Bulb / Landscape / Movie / 3D,exposure_mode,A,exposure mode,auto focus mode,exposure mode
+www.mypriceindia.com,694,lens type,LEICA DC VARIO-SUMMILUX,lens_mount_type,A,lens mount type,auto focus mode,lens mount type
+www.priceme.co.nz,1937,min focal length,25mm,focal_length_min,A,focal length min,auto focus mode,focal length max
+www.ebay.com,54336,brand,Canon,brand,A,brand,brand,brand
+www.buzzillions.com,2387,lcd display size inches,2.7,screen_size,A,screen size,auto focus mode,screen size
+www.ebay.com,56070,brand,Samsung,brand,A,brand,brand,brand
+www.ebay.com,42928,megapixels,10.1 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.buzzillions.com,2686,exposure modes,Shutter-Priority AE Program AE Manual Auto Aperture-Priority AE,exposure_mode,A,exposure mode,auto focus mode,exposure mode
+www.mypriceindia.com,649,video format,AVI (Motion JPEG ),video_format,A,video format,video format,video format
+www.ebay.com,47370,optical zoom,3.3x,zoom_optical,A,zoom optical,auto focus mode,zoom optical
+www.ebay.com,53715,brand,Olympus,brand,A,brand,brand,brand
+www.buzzillions.com,2922,megapixels,12.1,image_resolution,B,image resolution,auto focus mode,image resolution
+www.ebay.com,43902,megapixels,20.1 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.price-hunt.com,786,maximum shutter speed,1/4000 sec,shutter_speed_max,A,shutter speed max,auto focus mode,shutter speed max
+www.price-hunt.com,9779,sensor format,17.3 x 13 mm,sensor_size,A,sensor size,auto focus mode,sensor format type
+www.ebay.com,47888,megapixels,4.0 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.ebay.com,60716,brand,Nikon,brand,A,brand,brand,brand
+www.ebay.com,41978,megapixels,16.0 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.ebay.com,42538,screen size,"2""",screen_size,A,screen size,auto focus points,screen size
+www.alibaba.com,22656,max image resolution,1280 × 960,image_resolution_lw,A,image resolution lw,auto focus mode,image resolution
+www.pricedekho.com,1021,display,"Display Type
+TFT LCD
+Screen Size
+3 Inches
+Image Display Resolution
+921000 dots
+Supported Aspect Ratio
+16:09
+Additional Display Features
+Anti-reflection Coating, Wide Viewing Angle",screen_size,B,screen size,display,screen type
+www.alibaba.com,28250,lens mount,M12,lens_mount_type,A,lens mount type,auto focus mode,lens mount type
+www.shopmania.in,657,digital video format,AVI / MOV / H.264,video_format,A,video format,auto focus mode,file system
+www.cambuy.com.au,27,white balance,Auto / Daylight / Cloudy / Shade / Incandescent / Flash / White Set1 / White Set2 / White Set3 / White Set4 / Color Temperature/(2-axis Adjustable),white_balance,A,white balance,auto focus mode,white balance
+www.buzzillions.com,1931,optical zoom,16x 21x,zoom_optical,A,zoom optical,auto focus mode,zoom optical
+www.alibaba.com,29563,frame rate,"50Hz: 20fps (2048 x 1536), 25fps (1920 × 1080),
+25fps (1280 x 720)
+60Hz: 20fps (2048 x 1536), 30fps (1920 × 1080),
+30fps (1280 x 720)",video_resolution,C,video resolution,auto focus mode,video resolution
+www.ebay.com,53062,megapixels,10.2 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.ebay.com,43190,megapixels,6.1 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.shopmania.in,976,brand,Fujifilm,brand,A,brand,brand,brand
+buy.net,6196,digital zoom,4 X,zoom_digital,A,zoom digital,auto focus mode,zoom digital
+www.price-hunt.com,870,warranty summary,3 Year Pentax India Warranty and Free Transit Insurance.,warranty_duration,A,warranty duration,auto focus automatic,warranty duration
+www.shopmania.in,1289,video resolution,960x540 / 1280x720,video_resolution,A,video resolution,video resolution,video resolution
+www.alibaba.com,24919,frame rate,"50Hz: 20fps (2048 × 1536), 25fps (1920 × 1080), 25fps (1280 × 720)
+60Hz: 20fps (2048 × 1536), 30fps (1920 × 1080), 30fps (1280 × 720)",video_resolution,C,video resolution,auto focus mode,video resolution
+www.ebay.com,57906,screen size,"65""",screen_size,A,screen size,auto focus mode,screen size
+www.alibaba.com,34648,lens mount,M12,lens_mount_type,A,lens mount type,auto focus mode,lens mount type
+www.ebay.com,44814,screen size,"2.7""",screen_size,A,screen size,auto focus mode,screen size
+www.ebay.com,45957,brand,Sony,brand,A,brand,brand,brand
+www.ebay.com,54802,screen size,"3.5""",screen_size,A,screen size,auto focus points,screen size
+www.ebay.com,48439,brand,Canon,brand,A,brand,brand,brand
+www.ebay.com,42959,megapixels,16.2 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.ebay.com,53387,brand,Nikon,brand,A,brand,brand,brand
+www.ebay.com,24178,megapixels,8.0 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.ebay.com,55308,screen size,"2.7""",screen_size,A,screen size,auto focus mode,screen size
+www.shopmania.in,1098,resolution,20.2 MP (more than 96%),image_resolution,A,image resolution,auto focus points,image resolution
+www.ukdigitalcameras.co.uk,277,camera resolution,16 Megapixels,image_resolution,A,image resolution,auto focus automatic,image resolution
+cammarkt.com,73,lcd screen size,7.6 in.,screen_size,A,screen size,lcd screen size,screen size
+www.ebay.com,48407,screen size,"3""",screen_size,A,screen size,auto focus points,screen size
+buy.net,5797,white balance modes,AutoCloudyDaylightFlashFluorescentIncandescentManual,white_balance,A,white balance,auto focus mode,white balance mode
+www.shopmania.in,1283,screen size,"3"" (more than 62%)",screen_size,A,screen size,auto focus mode,screen size
+www.ebay.com,43862,optical zoom,3x,zoom_optical,A,zoom optical,auto focus points,zoom optical
+www.gosale.com,624,megapixels,10 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.ebay.com,53719,optical zoom,5x,zoom_optical,A,zoom optical,auto focus points,zoom optical
+www.ilgs.net,43,video formats supported,"H.264, MP4, MPEG4",video_format,A,video format,auto focus type,video format
+www.buzzillions.com,2179,exposure modes,Program AE Manual iAUTO Aperture-Priority AE Shutter-Priority AE,exposure_mode,A,exposure mode,auto focus mode,exposure mode
+www.henrys.com,36,display screen type,LCD Screen,screen_type,A,screen type,display screen type,screen type
+www.buzzillions.com,849,camera pixel count,12 Megapixel,image_resolution,C,image resolution,auto focus automatic,camera depth
+www.ebay.com,53372,megapixels,10.1 megapixel,image_resolution,B,image resolution,auto focus automatic,image resolution
+www.ebay.com,54056,screen size,"3""",screen_size,A,screen size,auto focus points,screen size
+www.pricedekho.com,746,display type,LCD,screen_type,A,screen type,display type,screen type
+www.henrys.com,120,colour,Black,color,C,color,colour,color
+www.henrys.com,148,optical zoom,12x,zoom_optical,A,zoom optical,auto focus mode,zoom optical
+www.ebay.com,42167,brand,Canon,brand,A,brand,brand,brand
+www.buzzillions.com,2172,camera pixel count,12 Megapixel,image_resolution,C,image resolution,auto focus automatic,camera depth
+www.shopmania.in,1595,exposure compensation,"-/+ 5 EV range, in 1/2 or 1/3 EV steps",exposure_compensation,A,exposure compensation,auto focus mode,exposure compensation
+www.pricedekho.com,758,white balancing,"Auto, Cloudy, Colour Filter, Colour Temperature, Custom, Daylight, Flash, Fluorescent, Incandescent, Shade",white_balance,A,white balance,auto focus auto,white balance
+www.shopmania.in,1564,image resolutions,640x480 / 1920x1080 / 2592x1944 / 3648x2736 / 5152x2896 / 5152x3864,image_resolution_lw,A,image resolution lw,auto focus points,image resolution
+www.price-hunt.com,9762,focusing sysetm,"1-Point af (Fixed to Centre), Aiaf (Face Detection / 9-Point)",auto_focus_mode,C,auto focus mode,auto focus points,auto focus points
+www.buzzillions.com,2922,microphone,Microphone - built-in - mono,microphone_type,A,microphone type,auto focus mode,microphone type
+www.ebay.com,59557,brand,Canon,brand,A,brand,brand,brand
+www.eglobalcentral.co.uk,89,optical zoom,,zoom_optical,A,zoom optical,auto focus mode,zoom optical
+www.ebay.com,60767,megapixels,10.0 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.alibaba.com,29252,lens mount,M12,lens_mount_type,A,lens mount type,auto focus mode,lens mount type
+www.shopmania.in,1032,memory type,SD / SDHC / SDXC,external_memory_type,A,external memory type,auto focus type,external memory type
+www.price-hunt.com,824,digital zoom,4x,zoom_digital,A,zoom digital,auto focus mode,zoom digital
+www.ebay.com,42727,megapixels,16.2 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.ebay.com,56327,brand,Sony,brand,A,brand,brand,brand
+www.ebay.com,47784,optical zoom,12x,zoom_optical,A,zoom optical,auto focus automatic,zoom optical
+www.buzzillions.com,2126,megapixels,14,image_resolution,B,image resolution,auto focus mode,image resolution
+www.buzzillions.com,2185,megapixels,14,image_resolution,B,image resolution,auto focus mode,image resolution
+www.shopmania.in,1339,microphone,Yes,microphone_type,A,microphone type,auto focus mode,microphone type
+www.ebay.com,57538,brand,Canon,brand,A,brand,brand,brand
+www.eglobalcentral.co.uk,645,max resolution,16.1MP: 4608 x 3456,image_resolution_lw,A,image resolution lw,auto focus mode,image resolution
+www.buzzillions.com,2759,lcd viewer,2.7 Inch,screen_size,B,screen size,auto focus mode,screen type
+www.shopmania.in,1004,white balance,Automatic / Custom / Manual / Presets,white_balance,A,white balance,auto focus automatic,white balance
+www.buzzillions.com,2158,lcd viewer,3 Inch 2.7 Inch,screen_size,B,screen size,auto focus mode,screen type
+www.ebay.com,53869,megapixels,14.2 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.buzzillions.com,2109,camera color,Orange Blue Green Black Plum Silver,color,A,color,auto focus mode,color
+www.ebay.com,46905,screen size,"1.5""",screen_size,A,screen size,auto focus points,screen size
+www.shopmania.in,1714,optical zoom,3x,zoom_optical,A,zoom optical,auto focus automatic,zoom optical
+www.ebay.com,53130,megapixels,6.0 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.gosale.com,1110,camera type,Point-and-Shoot,camera_type,A,camera type,auto focus points,camera type
+www.pricedekho.com,1095,sensor type,CMOS Sensor,sensor_type,A,sensor type,auto focus mode,sensor type
+www.pricedekho.com,1274,optical sensor resolution in megapixel,12 MP,image_resolution,A,image resolution,auto focus automatic,sensor resolution megapixels
+www.ebay.com,59841,screen size,"2.7""",screen_size,A,screen size,auto focus mode,screen size
+www.pricedekho.com,1129,red eye reduction,Yes,red_eye_reduction,A,red eye reduction,auto focus points,red eye reduction
+www.buzzillions.com,2541,lcd viewer,2.7 Inch,screen_size,B,screen size,auto focus mode,screen type
+buy.net,5575,lcd screen size,3 in,screen_size,A,screen size,auto focus mode,screen size
+www.ebay.com,46023,optical zoom,4x,zoom_optical,A,zoom optical,auto focus automatic,zoom optical
+www.ebay.com,55942,screen size,"2.7""",screen_size,A,screen size,auto focus mode,screen size
+www.shopmania.in,1718,depth,20 mm,camera_depth,A,camera depth,auto focus mode,camera depth
+www.ebay.com,60623,brand,Olympus,brand,A,brand,brand,brand
+www.price-hunt.com,9787,audio formats,Linear pcm,supported_audio_formats,A,supported audio formats,audio formats,supported audio formats
+www.shopmania.in,1201,depth,78 mm,camera_depth,A,camera depth,auto focus mode,camera depth
+www.buzzillions.com,2122,standard warranty,1 Year Limited,warranty_duration,A,warranty duration,auto focus type,warranty duration
+www.ebay.com,44659,brand,HP,brand,A,brand,brand,brand
+www.shopmania.in,1281,special effects,Contrast / Fisheye / Monochrome / Poster / Retro / Sepia / Vivid,picture_styles,C,picture styles,auto focus mode,picture styles
+www.eglobalcentral.co.uk,159,microphone,Built-in Stereo microphone or external stereo microphone,microphone_type,A,microphone type,auto focus mode,microphone type
+www.mypriceindia.com,775,image ratio wh,"16:9, 3:2",supported_aspect_ratio,A,supported aspect ratio,auto focus mode,supported aspect ratio
+www.alibaba.com,34838,focus control,Manual,auto_focus_automatic,A,auto focus automatic,auto focus mode,auto focus automatic
+www.shopmania.in,1720,red eye reduction,Yes,red_eye_reduction,A,red eye reduction,auto focus mode,red eye reduction
+www.ebay.com,48955,optical zoom,5x,zoom_optical,A,zoom optical,auto focus points,zoom optical
+www.ilgs.net,5,width,6.25 cm,camera_width,A,camera width,width,image resolution
+www.mypriceindia.com,787,self timer,"Yes, 2 or 10 sec",self_timer,A,self timer,auto focus type,self timer
+www.ebay.com,24673,megapixels,10.0 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.ebay.com,56611,brand,Nikon,brand,A,brand,brand,brand
+www.shopmania.in,975,white balance,Custom / Presets,white_balance,A,white balance,auto focus mode,white balance
+www.ebay.com,59982,screen size,"3.2""",screen_size,A,screen size,auto focus points,screen size
+www.buzzillions.com,2581,resolution,8 MP and Over,image_resolution,A,image resolution,auto focus points,image resolution
+www.flipkart.com,2227,humidity,10% - 90%,working_humidity,A,working humidity,auto focus mode,working humidity
+www.alibaba.com,28224,lens mount,M12,lens_mount_type,A,lens mount type,auto focus mode,lens mount type
+www.ebay.com,43207,screen size,"3""",screen_size,A,screen size,auto focus points,screen size
+www.ebay.com,56608,screen size,"2.5""",screen_size,A,screen size,auto focus points,screen size
+www.shopmania.in,1341,optical zoom,4x (more than 51%),zoom_optical,A,zoom optical,auto focus mode,zoom optical
+www.shopmania.in,894,sensor format,APS-C,sensor_size_class,A,sensor size class,auto focus mode,sensor size class
+www.buzzillions.com,1911,memory type,Secure Digital (SD) Card,external_memory_type,A,external memory type,auto focus mode,external memory type
+www.camerafarm.com.au,828,supported languages,Arabic Chinese (Simplified and Traditional) Czech Danish Dutch English Finnish French German Indonesian Italian Japanese Korean Norwegian Polish Portuguese Russian Spanish Swedish Thai Turkish Spanish,supported_languages,A,supported languages,auto focus mode,supported languages
+www.ebay.com,46219,brand,Nikon,brand,A,brand,brand,brand
+www.buzzillions.com,2956,width inches,3.56,camera_width,A,camera width,width,image resolution
+www.flipkart.com,2174,color,Black,color,A,color,color,color
+buy.net,6612,image sensor,CCD,sensor_type,A,sensor type,auto focus mode,sensor type
+www.alibaba.com,23838,white balance,"A uto ,D aylight ,C loudy , Incandescent ,F luorescent",white_balance,A,white balance,auto focus type,white balance
+www.pricedekho.com,967,optical sensor resolution in megapixel,24.3 MP,image_resolution,A,image resolution,auto focus automatic,sensor resolution megapixels
+www.mypriceindia.com,724,video format,"MOV, MPEG-4 AVC / H.264",video_format,A,video format,video format,video format
+www.camerafarm.com.au,826,sensor size,23.5 x 15.7mm,sensor_size,A,sensor size,auto focus mode,sensor size
+www.henrys.com,57,screen size,"3.0""",screen_size,A,screen size,auto focus points,screen size
+www.ebay.com,55397,optical zoom,5x,zoom_optical,A,zoom optical,auto focus points,zoom optical
+www.shopmania.in,1167,sensor size,15.8 x 23.6mm,sensor_size,A,sensor size,auto focus mode,sensor size
+www.ebay.com,59749,megapixels,3.0 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.price-hunt.com,810,image format,"Dpof, Dcf, Exif 2.3, pim Iii, Jpeg",image_format,A,image format,auto focus mode,image format
+www.pricedekho.com,1166,optical zoom,10x,zoom_optical,A,zoom optical,auto focus zoom,zoom optical
+www.buzzillions.com,1842,self timer,2 Seconds 10 Seconds Yes,self_timer,A,self timer,auto focus points,self timer
+www.henrys.com,177,self timer,"2 Sec, 10 Sec",self_timer,A,self timer,auto focus points,self timer
+www.pricedekho.com,1262,sensor size,1/2.33 Inches,sensor_size,A,sensor size,auto focus mode,sensor size
+www.ebay.com,54712,megapixels,12.2 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.ebay.com,54217,megapixels,16.2 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.ebay.com,24333,megapixels,18.0 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.ebay.com,56477,optical zoom,5x,zoom_optical,A,zoom optical,auto focus points,zoom optical
+www.ilgs.net,22,internal memory,2048 MB,internal_memory_capacity,A,internal memory capacity,auto focus points,internal memory capacity
+www.mypriceindia.com,722,lens type,Leica DC Vario Elmar,lens_mount_type,A,lens mount type,auto focus mode,lens mount type
+www.ilgs.net,70,colour of product,Red Red Red,color,C,color,colour,color
+www.ebay.com,59113,screen size,"3""",screen_size,A,screen size,auto focus points,screen size
+www.buzzillions.com,2423,camera color,Silver Pink,color,A,color,auto focus mode,color
+www.price-hunt.com,9583,warranty summary,2 Year Samsung India Warranty and Free Transit Insurance.,warranty_duration,A,warranty duration,auto focus type,warranty duration
+www.ebay.com,53376,megapixels,24.2 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.ebay.com,59452,brand,Sony,brand,A,brand,brand,brand
+www.ebay.com,47115,megapixels,12.0 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.eglobalcentral.co.uk,535,lens mount,EF mount,lens_mount_type,A,lens mount type,auto focus mode,lens mount type
+www.buzzillions.com,2296,width inches,5.2,camera_width,A,camera width,width,image resolution
+www.alibaba.com,24524,max image resolution,1920 x 1080,image_resolution_lw,A,image resolution lw,auto focus points,image resolution
+www.ebay.com,60882,optical zoom,10x,zoom_optical,A,zoom optical,auto focus points,zoom optical
+www.buzzillions.com,1033,camera color,Yes,color,A,color,auto focus mode,camera depth
+www.priceme.co.nz,2001,min focal length,24mm,focal_length_min,A,focal length min,auto focus mode,focal length max
+www.priceme.co.nz,2341,max focal length,140mm,focal_length_max,A,focal length max,auto focus mode,focal length max
+cammarkt.com,59,display type,With LCD Screen,screen_type,A,screen type,auto focus mode,screen type
+www.shopmania.in,989,sensor type,CCD,sensor_type,A,sensor type,auto focus mode,sensor type
+www.ebay.com,41910,megapixels,12.2 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.alibaba.com,24355,frame rate,"50 Hz: 25 fps (1280 × 960), 25 fps (1280 x 720), 25 fps (704 x 576),
+25 fps (640 x 480)
+60 Hz: 30 fps (1280 × 960), 30 fps (1280 x 720), 30 fps (704 x 576),
+30 fps (640 x 480)",video_resolution,C,video resolution,auto focus mode,video resolution
+www.ebay.com,42784,megapixels,18.0 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.ebay.com,45099,megapixels,10.2 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.price-hunt.com,9788,color,Black,color,A,color,color,color
+www.shopmania.in,1355,microphone,Yes,microphone_type,A,microphone type,auto focus mode,microphone type
+www.ebay.com,59591,megapixels,7.2 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.ebay.com,24791,brand,Alpine,brand,A,brand,brand,brand
+www.gosale.com,421,camera type,Point-and-Shoot,camera_type,A,camera type,auto focus points,camera type
+www.price-hunt.com,757,lens type,Wide-Angle Lens,lens_mount_type,A,lens mount type,auto focus mode,lens mount type
+www.price-hunt.com,9863,sensor type,CCD,sensor_type,A,sensor type,auto focus mode,sensor type
+www.ebay.com,44902,megapixels,18.2 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.flipkart.com,2247,video display resolution,1920 x 1080,video_resolution,A,video resolution,auto focus mode,video resolution
+www.buzzillions.com,1022,digital zoom,5x 4x,zoom_digital,A,zoom digital,auto focus mode,zoom digital
+www.priceme.co.nz,2193,max image resolution,3888x2592,image_resolution_lw,A,image resolution lw,auto focus points,image resolution
+www.buzzillions.com,976,microphone,Built-in,microphone_type,A,microphone type,auto focus mode,microphone type
+www.alibaba.com,37440,frame rate,"50Hz: 20fps (2048 × 1536), 25fps (1920 × 1080), 25fps (1280 × 720)
+60Hz: 20fps (2048 × 1536), 30fps (1920 × 1080), 30fps (1280 × 720)",video_resolution,C,video resolution,auto focus mode,video resolution
+www.eglobalcentral.co.uk,551,storage type,"Type I or II CF Card, UDMA-compatible",external_memory_type,A,external memory type,auto focus type,external memory type
+www.alibaba.com,36376,frame rate,"50Hz: 20fps (2048 x 1536), 25fps (1920 × 1080),
+25fps (1280 x 720)
+60Hz: 20fps (2048 x 1536), 30fps (1920 × 1080),
+30fps (1280 x 720)",video_resolution,C,video resolution,auto focus mode,video resolution
+www.cambuy.com.au,0,digital zoom,"2x, 4x",zoom_digital,A,zoom digital,auto focus mode,zoom digital
+www.shopmania.in,894,depth,81 mm,camera_depth,A,camera depth,auto focus mode,camera depth
+www.mypriceindia.com,91,maximum shutter speed,1/2000 sec,shutter_speed_max,A,shutter speed max,auto focus mode,shutter speed max
+www.ebay.com,47721,brand,Nikon,brand,A,brand,brand,brand
+www.eglobalcentral.co.uk,82,focal length,65mm,focal_length_min,A,focal length min,auto focus mode,focal length min
+www.ebay.com,56468,megapixels,7.1 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.eglobalcentral.co.uk,108,aspect ratio,3:2 (Horizontal; Vertical),supported_aspect_ratio,A,supported aspect ratio,auto focus mode,supported aspect ratio
+www.ebay.com,60641,megapixels,3.2 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.buzzillions.com,1788,megapixels,12.0,image_resolution,B,image resolution,auto focus mode,image resolution
+buy.net,5975,installed memory,4 GB,internal_memory_capacity,A,internal memory capacity,auto focus mode,internal memory capacity
+www.shopmania.in,1188,af illuminator,Yes,auto_focus_beam,C,auto focus beam,auto focus mode,auto focus beam
+www.ebay.com,60286,megapixels,5.0 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.ebay.com,24291,screen size,"1.8""",screen_size,A,screen size,auto focus points,screen size
+www.shopmania.in,1290,exposure modes,Aperture Priority / Custom / Program / Scene / Shutter Priority,exposure_mode,A,exposure mode,auto focus mode,exposure mode
+www.shopmania.in,1502,number of focus points,9,auto_focus_points,A,auto focus points,auto focus points,auto focus points
+www.priceme.co.nz,2158,max image resolution,4288x2848,image_resolution_lw,A,image resolution lw,auto focus points,image resolution
+www.ebay.com,42679,optical zoom,4x,zoom_optical,A,zoom optical,auto focus automatic,zoom optical
+www.alibaba.com,36590,frame rate,Main Stream 5M(1~12fps)/3M(1~20fps)/1080P/720P(1~25/30fps),video_resolution,C,video resolution,auto focus mode,video resolution
+www.price-hunt.com,9887,white balancing,"Auto, Fluorescent, Daylight, Cloudy, one Push, one Push Set, Incandescent, Flash",white_balance,A,white balance,auto focus mode,white balance
+www.ebay.com,47120,brand,Sony,brand,A,brand,brand,brand
+www.ebay.com,59199,optical zoom,3x,zoom_optical,A,zoom optical,auto focus points,zoom optical
+www.pcconnection.com,12418,camera type,Mirrorless system,camera_type,A,camera type,auto focus mode,camera type
+www.ebay.com,54485,screen size,"1.6""",screen_size,A,screen size,auto focus mode,screen size
+www.ebay.com,53824,optical zoom,15x,zoom_optical,A,zoom optical,auto focus mode,zoom optical
+www.ebay.com,54926,screen size,"3""",screen_size,A,screen size,auto focus points,screen size
+www.canon-europe.com,59,af assist beam,Yes,auto_focus_beam,A,auto focus beam,auto focus beam,auto focus beam
+www.ebay.com,48323,optical zoom,10x,zoom_optical,A,zoom optical,auto focus points,zoom optical
+www.ebay.com,42141,megapixels,12.1 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.buzzillions.com,2677,width inches,3.85,camera_width,A,camera width,width,image resolution
+www.ebay.com,57025,brand,Fujifilm,brand,A,brand,brand,brand
+www.priceme.co.nz,2162,max image resolution,5184x3456,image_resolution_lw,A,image resolution lw,max image resolution,image resolution
+www.buzzillions.com,2245,optical zoom,5 5x,zoom_optical,A,zoom optical,auto focus mode,zoom optical
+www.buzzillions.com,2336,resolution,"12""1 Megapixel",image_resolution,A,image resolution,auto focus mode,image resolution
+www.ebay.com,24407,megapixels,12.1 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.shopmania.in,1598,microphone,Yes,microphone_type,A,microphone type,auto focus mode,microphone type
+www.canon-europe.com,113,exposure compensation,"+/- 2 EV in 1/3 stop increments.
+Enhanced i-Contrast for automatic dynamic range correction",exposure_compensation,A,exposure compensation,auto focus mode,exposure compensation
+www.henrys.com,124,colour,Black,color,C,color,colour,color
+www.mypriceindia.com,716,white balancing,"Auto WB, Daylight, Shade, Cloudy, Incandescent, Fluorescent, Flash, C.Tem , C.Filter , Custom",white_balance,A,white balance,auto focus mode,white balance
+www.ebay.com,41899,brand,Pentax,brand,A,brand,brand,brand
+www.ebay.com,53583,megapixels,16.2 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.mypriceindia.com,50,lens type,Panasonic Lens,lens_mount_type,A,lens mount type,auto focus automatic,lens mount type
+www.buzzillions.com,1793,camera color,Silver Black,color,A,color,auto focus mode,color
+www.ebay.com,44862,screen size,"2.7""",screen_size,A,screen size,auto focus mode,screen size
+www.ebay.com,42495,megapixels,18.0 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.ebay.com,43265,brand,Fujifilm,brand,A,brand,brand,brand
+www.ebay.com,42313,optical zoom,3.8x,zoom_optical,A,zoom optical,auto focus mode,zoom optical
+www.camerafarm.com.au,737,exposure modes,Auto Easy Auto Scene Smart Portrait,exposure_mode,A,exposure mode,auto focus mode,exposure mode
+www.priceme.co.nz,2365,optical sensor,CMOS,sensor_type,A,sensor type,auto focus automatic,sensor type
+www.buzzillions.com,2446,lcd viewer,3 Inch,screen_size,B,screen size,auto focus mode,screen type
+www.ebay.com,59574,optical zoom,5x,zoom_optical,A,zoom optical,auto focus points,zoom optical
+www.price-hunt.com,9688,color filter,Primary (Rgb) Color Filter,color_filter,A,color filter,color,color filter
+www.ebay.com,42751,megapixels,24.1 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.shopmania.in,1200,white balance presets,Cloudy / Daylight / Sunny / Flash / Incandescent / Shade,white_balance,A,white balance,auto focus mode,white balance
+cammarkt.com,67,brand,Canon,brand,A,brand,brand,brand
+www.garricks.com.au,68,lens mount,Micro 4/3,lens_mount_type,A,lens mount type,auto focus mode,lens mount type
+www.ebay.com,54732,optical zoom,3x,zoom_optical,A,zoom optical,auto focus points,zoom optical
+www.pricedekho.com,1227,video format,"AVC, H.264, MOV, MPEG-4",video_format,A,video format,video format,video format
+www.price-hunt.com,9584,lcd screen size,3 Inch,screen_size,A,screen size,lcd screen size,screen size
+www.mypriceindia.com,727,image format,"JPEG, EXIF",image_format,A,image format,auto focus mode,image format
+www.ebay.com,46535,megapixels,1.2 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.alibaba.com,36062,focus control,Auto,auto_focus_automatic,A,auto focus automatic,auto focus mode,auto focus automatic
+cammarkt.com,137,manufacturer,Pentax,brand,C,brand,manufacturer,camera type
+www.ebay.com,47533,brand,Sony,brand,A,brand,brand,brand
+www.buzzillions.com,2074,color,Pink Bliss,color,A,color,color,color
+www.alibaba.com,24179,lens mount,Φ14,lens_mount_type,A,lens mount type,auto focus mode,lens mount type
+www.pricedekho.com,1249,video display resolution,1920 x 1080 pixels (Full HD) @ 30 fps,video_resolution,A,video resolution,auto focus mode,video resolution
+www.ebay.com,24539,optical zoom,12x,zoom_optical,A,zoom optical,auto focus automatic,zoom optical
+www.ebay.com,60115,megapixels,12.1 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.ebay.com,48131,brand,Olympus,brand,A,brand,brand,brand
+www.shopmania.in,1097,white balance presets,Cloudy / Daylight / Sunny / Flash / Fluorescent / Incandescent / Shade / Tungsten,white_balance,A,white balance,auto focus mode,white balance
+www.ebay.com,52611,optical zoom,2.9x,zoom_optical,A,zoom optical,auto focus mode,zoom optical
+www.pricedekho.com,744,white balancing,"Auto, Cloudy, Color Temperature, Daylight, Flash, Incandescent, Shade, White Set-1, 2",white_balance,A,white balance,auto focus mode,white set 1
+www.shopbot.com.au,1264,video resolution,1920x1080 px,video_resolution,A,video resolution,video resolution,video resolution
+www.shopmania.in,1192,max shutter speed,1/4000,shutter_speed_max,A,shutter speed max,auto focus mode,shutter speed max
+www.shopmania.in,1338,depth,78 mm,camera_depth,A,camera depth,auto focus mode,camera depth
+www.shopmania.in,1426,white balance,Automatic / Custom / Manual / Presets,white_balance,A,white balance,auto focus automatic,white balance
+www.buzzillions.com,900,storage media type,SD - SDHC - SDXC Secure Digital (SD),external_memory_type,A,external memory type,auto focus mode,external memory type
+www.shopmania.in,696,sensor type,CCD,sensor_type,A,sensor type,auto focus mode,sensor type
+www.mypriceindia.com,173,lens type,Panasonic LUMIX G X VARIO,lens_mount_type,A,lens mount type,auto focus mode,lens mount type
+www.buzzillions.com,2056,memory type,Secure Digital (SD) Card,external_memory_type,A,external memory type,auto focus mode,external memory type
+www.alibaba.com,36142,focus control,Auto / Manual,auto_focus_automatic,A,auto focus automatic,auto focus mode,auto focus automatic
+www.ebay.com,60740,optical zoom,3x,zoom_optical,A,zoom optical,auto focus points,zoom optical
+www.shopmania.in,714,white balance presets,"Artificial
+/ Cloudy / Daylight / Sunny / Shade",white_balance,A,white balance,auto focus mode,white balance
+www.shopmania.in,1113,af illuminator,Yes,auto_focus_beam,C,auto focus beam,auto focus mode,auto focus beam
+www.buzzillions.com,2923,white balance,Tungsten Bulb Shade Color Temperature Setting Auto Flash Cloudy Daylight Custom Fluorescent,white_balance,A,white balance,auto focus auto,white balance
+www.alibaba.com,34818,frame rate,Main Stream 3M(1~20fps)/1080P/720P(1 ~ 25/30fps),video_resolution,C,video resolution,auto focus mode,video resolution
+www.garricks.com.au,40,zoom range,24x Optical,zoom_optical,A,zoom optical,auto focus mode,zoom optical
+buy.net,5381,lcd screen size,3 in,screen_size,A,screen size,auto focus mode,screen size
+www.buzzillions.com,1963,camera style,Point & Shoot with Zoom Lens,camera_type,A,camera type,auto focus mode,camera type
+www.alibaba.com,22772,lens mount,φ14,lens_mount_type,A,lens mount type,auto focus mode,lens mount type
+www.ebay.com,46100,megapixels,12.0 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.buzzillions.com,2390,megapixels,14,image_resolution,B,image resolution,auto focus mode,image resolution
+www.ebay.com,59590,brand,Sony,brand,A,brand,brand,brand
+www.shopmania.in,1222,microphone,Yes,microphone_type,A,microphone type,auto focus mode,microphone type
+www.ebay.com,44870,screen size,"4.8""",screen_size,A,screen size,auto focus points,screen size
+www.ebay.com,24042,optical zoom,3x,zoom_optical,A,zoom optical,auto focus points,zoom optical
+www.ebay.com,56315,brand,Nikon,brand,A,brand,brand,brand
+buy.net,5370,lcd screen size,3 in,screen_size,A,screen size,auto focus mode,screen size
+www.mypriceindia.com,790,max resolution,4912 x 3264 Pixels,image_resolution_lw,A,image resolution lw,auto focus points,image resolution
+www.ebay.com,55123,brand,Nikon,brand,A,brand,brand,brand
+www.ilgs.net,59,maximum video resolution,1920 x 1080 pixels,video_resolution,A,video resolution,auto focus mode,video resolution
+www.alibaba.com,30464,frame rate,Main Stream 3M(1~20fps)/1080P/720P(1 ~ 25/30fps),video_resolution,C,video resolution,auto focus mode,video resolution
+www.gosale.com,399,manufacturer,CANU9,brand,C,brand,manufacturer,camera width
+www.cambuy.com.au,119,file system,"DCF (Design Rule for Camera File System) 2.0, DPOF (Digital Print Order Format), Exif (Exchangeable Image File Format for Digital Still Cameras) 2.3, PictBridge",file_system,A,file system,auto focus mode,file system
+www.ebay.com,59708,brand,Olympus,brand,A,brand,brand,brand
+www.ebay.com,55020,brand,Nikon,brand,A,brand,brand,brand
+www.shopmania.in,1612,screen size,"2.7""",screen_size,A,screen size,auto focus mode,screen size
+www.ebay.com,57775,brand,Nikon,brand,A,brand,brand,brand
+www.shopmania.in,1451,screen size,"3"" (more than 62%)",screen_size,A,screen size,auto focus mode,screen size
+www.ebay.com,47801,megapixels,6.3MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.ebay.com,47679,screen size,"3""",screen_size,A,screen size,auto focus points,screen size
+www.shopmania.in,1558,width,133 mm,camera_width,A,camera width,width,image resolution
+www.shopmania.in,665,sensor size,1/2.3,sensor_size,A,sensor size,auto focus mode,sensor size
+www.ebay.com,58183,brand,Skyworth,brand,A,brand,brand,brand
+www.ebay.com,24270,brand,Sony,brand,A,brand,brand,brand
+www.pricedekho.com,1118,video format,"H.264, MOV",video_format,A,video format,video format,video format
+www.priceme.co.nz,2178,still image format,"JPEG, RAW",image_format,A,image format,auto focus mode,image format
+cammarkt.com,40,hd recording format,720p (HDTV),video_resolution,C,video resolution,auto focus mode,video resolution
+www.mypriceindia.com,117,white balancing,"Automatic Scene Recognition, Preset (Fine, Shade, Fluorescent Light (Daylight), Fluorescent Light (Warm White), Fluorescent Light (Cool White), Incandescent Light, Custom)",white_balance,A,white balance,auto focus automatic,white balance
+www.alibaba.com,35762,lens mount,φ14,lens_mount_type,A,lens mount type,auto focus mode,lens mount type
+www.ebay.com,46352,screen size,"3""",screen_size,A,screen size,auto focus points,screen size
+www.ebay.com,55137,megapixels,7.2 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.ebay.com,24433,megapixels,14.0MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.ebay.com,24250,brand,Samsung,brand,A,brand,brand,brand
+www.mypriceindia.com,79,red eye reduction,Yes,red_eye_reduction,A,red eye reduction,auto focus points,red eye reduction
+www.ebay.com,45880,megapixels,18.0 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.shopmania.in,1036,number of focus points,9,auto_focus_points,A,auto focus points,auto focus points,auto focus points
+www.ebay.com,24058,screen size,"2""",screen_size,A,screen size,auto focus points,screen size
+www.buzzillions.com,2142,megapixels,12.4,image_resolution,B,image resolution,auto focus mode,image resolution
+www.henrys.com,173,builtin memory,56MB,internal_memory_capacity,A,internal memory capacity,builtin memory,internal memory capacity
+www.alibaba.com,24525,focus control,Auto / Manual,auto_focus_automatic,A,auto focus automatic,auto focus mode,auto focus automatic
+www.pcconnection.com,4438,warranty parts,Call for Warranty,warranty_duration,A,warranty duration,auto focus points,warranty duration
+www.shopmania.in,1440,brand,Panasonic,brand,A,brand,brand,brand
+www.ebay.com,25169,brand,Panasonic,brand,A,brand,brand,brand
+www.ebay.com,60208,megapixels,14.1 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.ebay.com,55780,brand,Panasonic,brand,A,brand,brand,brand
+www.ebay.com,48368,brand,Nikon,brand,A,brand,brand,brand
+www.ebay.com,44270,megapixels,14.0 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.ebay.com,24102,brand,Bell & Howell,brand,A,brand,brand,brand
+buy.net,6447,lens mount,Sony E,lens_mount_type,A,lens mount type,auto focus mode,lens mount type
+www.gosale.com,1142,manufacturer,BVI,brand,C,brand,manufacturer,camera width
+www.alibaba.com,25044,frame rate,"50Hz: 20fps (2048 x 1536), 25fps (1920 × 1080),
+25fps (1280 x 720)
+60Hz: 20fps (2048 x 1536), 30fps (1920 × 1080),
+30fps (1280 x 720)",video_resolution,C,video resolution,auto focus mode,video resolution
+www.buzzillions.com,2056,display screen,"2.70""",screen_size,A,screen size,auto focus points,screen type
+www.priceme.co.nz,41,optical sensor,CMOS,sensor_type,A,sensor type,auto focus automatic,sensor type
+cammarkt.com,241,manufacturer,Nikon,brand,C,brand,manufacturer,camera type
+www.ilgs.net,73,manufacturer,Nikon,brand,C,brand,manufacturer,camera type
+www.price-hunt.com,9829,maximum shutter speed,1/2000 sec,shutter_speed_max,A,shutter speed max,auto focus mode,shutter speed max
+www.ebay.com,46387,screen size,"2.7""",screen_size,A,screen size,auto focus mode,screen size
+www.ebay.com,46178,optical zoom,10x,zoom_optical,A,zoom optical,auto focus points,zoom optical
+www.ebay.com,53366,brand,Pentax,brand,A,brand,brand,brand
+www.walmart.com,707,resolution megapixels,20.1 MP,image_resolution,A,image resolution,auto focus mode,image resolution
+www.wexphotographic.com,171,focal length tele,100,focal_length_max,A,focal length max,auto focus mode,focal length max
+www.gosale.com,527,manufacturer,Samsung,brand,C,brand,manufacturer,manufacturer
+www.ebay.com,43262,megapixels,20.2 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.ebay.com,60448,screen size,"3""",screen_size,A,screen size,auto focus points,screen size
+www.wexphotographic.com,208,movie mode,1080p Full HD,video_resolution,C,video resolution,auto focus mode,image resolution
+www.gosale.com,626,camera type,Point-and-Shoot,camera_type,A,camera type,auto focus points,camera type
+www.pricedekho.com,1119,color filter,Primary (RGB) Color Filter,color_filter,A,color filter,color,color filter
+www.ebay.com,53936,megapixels,8.2 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.shopmania.in,1117,image resolutions,640x480 / 1920x1080 / 1920x1280 / 2048x1536 / 3072x1728 / 3072x2304 / 4288x2416 / 4288x2864 / 4288x3216 / 4320x3240,image_resolution_lw,A,image resolution lw,auto focus mode,image resolution
+www.ebay.com,52684,screen size,"1.5""",screen_size,A,screen size,auto focus points,screen size
+www.ebay.com,47056,megapixels,14.2 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.ebay.com,55260,brand,HP,brand,A,brand,brand,brand
+www.eglobalcentral.co.uk,564,focal length,9 mm,focal_length_min,A,focal length min,auto focus mode,focal length min
+www.priceme.co.nz,2319,optical sensor,CMOS,sensor_type,A,sensor type,auto focus automatic,sensor type
+www.ebay.com,53934,brand,Nikon,brand,A,brand,brand,brand
+www.ebay.com,56592,megapixels,10.1 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.ilgs.net,22,video formats supported,"H.264, MP4",video_format,A,video format,video format,video format
+www.shopmania.in,1727,red eye reduction,Yes,red_eye_reduction,A,red eye reduction,auto focus mode,red eye reduction
+www.shopmania.in,1302,height,97 mm,camera_height,A,camera height,height,camera height
+www.buzzillions.com,986,storage media type,SD - SDHC - SDXC SD Secure Digital or MMC Multimedia Card Secure Digital (SD),external_memory_type,A,external memory type,auto focus mode,internal memory capacity
+www.ebay.com,47120,optical zoom,3 x,zoom_optical,A,zoom optical,auto focus points,zoom optical
+www.price-hunt.com,9916,lcd display,Clear Photo TFT LCD,screen_type,C,screen type,auto focus automatic,picture styles
+www.buzzillions.com,864,manufacturers warranty hardware,1 Year,warranty_duration,A,warranty duration,manufacturer warranty hardware,warranty duration
+www.henrys.com,239,colour,Green,color,C,color,auto focus mode,color
+www.ebay.com,55531,optical zoom,4x,zoom_optical,A,zoom optical,auto focus automatic,zoom optical
+www.mypriceindia.com,185,color filter,"Yes, Primary (RGB) Color filter",color_filter,A,color filter,color,color filter
+www.price-hunt.com,744,audio formats,MPEG-4 Aac-lc (2ch),supported_audio_formats,A,supported audio formats,audio formats,supported audio formats
+www.alibaba.com,37665,focus control,Auto,auto_focus_automatic,A,auto focus automatic,auto focus mode,auto focus automatic
+www.buzzillions.com,2294,camera color,Silver / Gray Black Red Silver,color,A,color,auto focus mode,color
+www.price-hunt.com,9569,total pixelgross pixel,12.76,image_resolution,C,image resolution,auto focus points,image resolution
+www.price-hunt.com,9776,inbuilt memory,25 MB,internal_memory_capacity,A,internal memory capacity,auto focus points,internal memory capacity
+www.ilgs.net,5,video formats supported,MP4,video_format,A,video format,video format,video formats supported
+www.shopmania.in,1547,optical zoom,3.8x (more than 50%),zoom_optical,A,zoom optical,auto focus mode,zoom optical
+www.buzzillions.com,2537,storage media type,SD - SDHC Micro SDHC,external_memory_type,A,external memory type,auto focus mode,external memory type
+www.ebay.com,44622,megapixels,12.3 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.shopmania.in,1461,image resolutions,1664x1664 / 2304x2304 / 2496x1408 / 2496x1664 / 3264x3264 / 3456x1944 / 3456x2304 / 4896x2760,image_resolution_lw,A,image resolution lw,auto focus points,image resolution lw
+www.ebay.com,60238,brand,Canon,brand,A,brand,brand,brand
+www.shopmania.in,1247,product name,Panasonic Lumix DMC-LZ40,brand,C,brand,auto focus automatic,camera width
+www.pcconnection.com,12360,battery technology,Alkaline,battery_chemistry,A,battery chemistry,battery chemistry,battery chemistry
+www.ebay.com,54853,megapixels,24.3 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.ebay.com,57363,megapixels,16.2 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.buzzillions.com,1886,resolution,14.1 Megapixel,image_resolution,A,image resolution,auto focus points,image resolution
+www.wexphotographic.com,214,focal length wide,25,focal_length_min,A,focal length min,auto focus mode,focal length max
+www.pricedekho.com,1269,sensor type,BSI CMOS Sensor,sensor_type,A,sensor type,auto focus mode,sensor type type
+www.ebay.com,60570,screen size,"3""",screen_size,A,screen size,auto focus points,screen size
+www.pricedekho.com,1142,optical zoom,4x,zoom_optical,A,zoom optical,auto focus mode,zoom optical
+www.ebay.com,54817,brand,Kodak,brand,A,brand,brand,brand
+www.mypriceindia.com,112,picture angle,17 mm Ultra Wide-angle,picture_angle,A,picture angle,auto focus mode,picture angle
+www.ebay.com,56912,brand,Sony,brand,A,brand,brand,brand
+www.priceme.co.nz,1795,min focal length,25mm,focal_length_min,A,focal length min,auto focus mode,focal length max
+www.alibaba.com,27773,max image resolution,1280 × 960,image_resolution_lw,A,image resolution lw,auto focus mode,image resolution
+buy.net,6087,memory card support,Secure Digital High Capacity (SDHC) Card|Secure Digital Extended Capacity (SDXC)|Eye-Fi Card|Secure Digital (SD) Card,external_memory_type,A,external memory type,auto focus mode,external memory type
+www.ebay.com,57608,megapixels,5.0MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.buzzillions.com,2206,optical zoom,4x,zoom_optical,A,zoom optical,auto focus points,zoom optical
+www.ebay.com,60336,screen size,"3""",screen_size,A,screen size,auto focus points,screen size
+www.ebay.com,56361,screen size,"2.2""",screen_size,A,screen size,auto focus points,screen size
+www.shopmania.in,674,brand,General Electric,brand,A,brand,brand,brand
+www.gosale.com,1134,manufacturer,Sony,brand,C,brand,manufacturer,camera width
+www.ebay.com,47457,brand,Canon,brand,A,brand,brand,brand
+www.alibaba.com,34324,white balance,Auto,white_balance,A,white balance,auto focus mode,white balance
+www.henrys.com,161,aspect ratio,3:2,supported_aspect_ratio,A,supported aspect ratio,auto focus mode,supported aspect ratio
+www.ilgs.net,5,minimum focal length 35mm film equiv,2.8 cm,focal_length_min,A,focal length min,auto focus mode,focal length min
+www.ebay.com,46633,megapixels,20.4 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+buy.net,6138,installed memory,37 MB,internal_memory_capacity,A,internal memory capacity,auto focus mode,image resolution
+www.pricedekho.com,1259,minimum shutter speed,"Night : 1/8 - 1/500 sec, Night (Tripod) : 3 sec - 1/500 sec, Manual : 30 - 1/1000 sec (All Other Modes), Auto : 25 - 1/1000 sec",shutter_speed_min,A,shutter speed min,auto focus mode,shutter speed min
+www.ebay.com,48986,megapixels,12.0 MP,image_resolution,B,image resolution,auto focus mode,image resolution
+www.gosale.com,751,redeye reduction,Yes,red_eye_reduction,A,red eye reduction,auto focus points,red eye reduction
+www.cambuy.com.au,40,autofocus af,Contrast-detect AF,auto_focus_type,C,auto focus type,auto focus mode,auto focus type
+www.shopmania.in,1118,depth,18 mm,camera_depth,A,camera depth,auto focus mode,camera depth
